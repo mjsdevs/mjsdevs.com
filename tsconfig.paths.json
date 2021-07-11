@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@icons": ["src/icons"],
+      "@commons": ["src/commons"],
+      "@components": ["src/components"],
+      "@pages": ["src/pages"]
+    }
+  }
+}
