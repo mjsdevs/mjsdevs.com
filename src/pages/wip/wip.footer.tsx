@@ -14,7 +14,7 @@ export const WipFooter = () => (
       Esta página está em construção.
     </Text>
     <Text color={Colors.light}>
-      Quer ajudar a MJS? Que tal <strong><a href="https://google.com" style={{
+      Quer ajudar a MJS? Que tal <strong><a href="https://github.com/mjsdevs/mjsdevs.com" style={{
         color: Colors.primary,
         textDecoration: 'none',
       }}> abrir um PR?</a></strong>
