@@ -43,7 +43,7 @@ export const WipHeader = () => (
     }}>Hello world <Cursor/></Box></Title>
     <Text color={Colors.light}>Nós somos um grupo de pessoas com diferentes níveis de experiência. Vamos compartilhar conhecimento e crescer em conjunto?</Text>
 
-    <GhostLinkAlt href="https://discord.gg/HnZE7ub" target='_blank' style={{
+    <GhostLinkAlt href="https://discord.gg/uJkbMrSU" target='_blank' style={{
       marginBlockStart: '2em',
     }}>
       <DiscordIcon /> Entrar no discord
